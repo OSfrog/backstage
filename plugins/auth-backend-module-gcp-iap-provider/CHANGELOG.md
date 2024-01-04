@@ -1,5 +1,26 @@
 # @backstage/plugin-auth-backend-module-gcp-iap-provider
 
+## 0.2.3-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-node@0.4.3-next.1
+  - @backstage/backend-plugin-api@0.6.9-next.1
+  - @backstage/errors@1.2.3
+  - @backstage/types@1.1.1
+
+## 0.2.3-next.0
+
+### Patch Changes
+
+- 4016f21: Remove some unused dependencies
+- Updated dependencies
+  - @backstage/backend-plugin-api@0.6.9-next.0
+  - @backstage/errors@1.2.3
+  - @backstage/types@1.1.1
+  - @backstage/plugin-auth-node@0.4.3-next.0
+
 ## 0.2.2
 
 ### Patch Changes
